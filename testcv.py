@@ -42,5 +42,5 @@ def image_make(file_name):
 
 	#cv2.imshow('res',img1)
 	cv2.imwrite(os.path.join(folder,file_name),img1)
-	cv2.waitKey(0)
-	cv2.destroyAllWindows()
+#	cv2.waitKey(0)
+#	cv2.destroyAllWindows()
