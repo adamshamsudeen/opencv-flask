@@ -37,7 +37,23 @@ It's a **Flask-Application** which dynamically **generates images**, with **bann
 `pip install Werkzeug`
 
 
+## Usage
 
+#### Step #1 :
+
+Clone the Repo.
+
+#### Step #2 :
+
+Install the [Requirements](#requirements)
+
+#### Step #3 :
+
+Fire up the terminal, and execute this piece of snippet :
+
+`py -3 app.py`
+
+The Program should be **Up & Running** until now !
 
 
 
