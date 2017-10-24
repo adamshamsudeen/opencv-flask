@@ -1,6 +1,7 @@
 # opencv-flask
 > A **Flask-Application** to dynamically generate images with banners.
 
+---
 
 ## Contents
 
@@ -9,6 +10,8 @@
 * [Usage](#usage)
 * [Powered By](#powered-by)
 * [License](#license)
+
+---
 
 ## Getting Started
 
@@ -21,6 +24,21 @@ It's a **Flask-Application** which dynamically **generates images**, with **bann
 ![](https://pythonspot-9329.kxcdn.com/wp-content/uploads/2015/08/flask-logo.png)
 ![](https://prateekvjoshi.files.wordpress.com/2015/10/1-main.png)
 
+---
 
 ## Requirements
+
+* **Flask**
+
+`pip install Flask`
+
+* **Werkzeug**
+
+`pip install Werkzeug`
+
+
+
+
+
+
 
