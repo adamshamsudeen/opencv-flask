@@ -19,9 +19,9 @@
 
 ### What is opencv-flask?
 
-It's a **Flask-Application** which dynamically **generates images**, with **banners**.
+> It's a **Flask-Application** which dynamically **generates images**, with **banners**.
 
-#### Technologies Used:
+* #### Technologies Used:
 
 ![](https://pythonspot-9329.kxcdn.com/wp-content/uploads/2015/08/flask-logo.png)
 ![](https://prateekvjoshi.files.wordpress.com/2015/10/1-main.png)
@@ -43,19 +43,19 @@ It's a **Flask-Application** which dynamically **generates images**, with **bann
 
 #### Step #1 :
 
-Clone the Repo.
+* Clone the Repo. *(`cd` into the `dir` after extracing the `.zip`)*
 
 #### Step #2 :
 
-Install the [Requirements](#requirements)
+* Install the [Requirements](#requirements)
 
 #### Step #3 :
 
-Fire up the terminal, and execute this piece of snippet :
+* Fire up the terminal, and execute this piece of snippet :
 
-`py -3 app.py`
+`python app.py`
 
-The Program should be **Up & Running** until now !
+**Yay !**
 
 > Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
