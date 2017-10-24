@@ -1,5 +1,7 @@
 # opencv-flask
 > A **Flask-Application** to dynamically generate images with banners.
+---
+![Imgur](https://i.imgur.com/1s3oFQr.png)
 
 ---
 
@@ -55,6 +57,8 @@ Fire up the terminal, and execute this piece of snippet :
 
 The Program should be **Up & Running** until now !
 
+> Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
+![Imgur](https://i.imgur.com/1s3oFQr.png)
 
 
