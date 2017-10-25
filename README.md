@@ -1,1 +1,1 @@
-Flask app to create images with banners. Like the one found in facebook.
+Flask app can be used to create images with banners. Like the one Facebook uses on your images.
