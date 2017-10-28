@@ -46,7 +46,7 @@
 
 #### Step #1 :
 
-* Clone the Repo. *(`cd` into the `dir` after extracing the `.zip`)*
+* Clone the repository. *(`cd` into the `dir` after extracing the `.zip`)*
 
 #### Step #2 :
 
