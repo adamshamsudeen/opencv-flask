@@ -38,6 +38,9 @@
 
 `pip install Werkzeug`
 
+* **OpenCV**
+
+`pip install opencv-python`
 
 ## Usage
 
