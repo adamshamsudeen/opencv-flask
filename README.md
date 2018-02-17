@@ -71,4 +71,4 @@
 
 ## License
 
-> Don't have a `License` yet !!
+> MIT
