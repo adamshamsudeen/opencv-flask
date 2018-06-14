@@ -1,3 +1,5 @@
-flask
-openncv-python
+Flask
 
+Werkzeug
+
+OpenCV-python
