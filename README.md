@@ -1,11 +1,11 @@
-# opencv-flask
-> A **Flask-Application** to dynamically generate images with banners.
+# opencv-flask :sparkles:
+> opencv-flask is a **Flask-Application** to dynamically generate images with banners. :bookmark:
 ---
 ![Imgur](https://i.imgur.com/1s3oFQr.png)
 
 ---
 
-## Contents
+## Contents :zap:
 
 * [Getting Started](#getting-started)
 * [Requirements](#requirements)
@@ -15,7 +15,7 @@
 
 ---
 
-## Getting Started
+## Getting Started :hammer:
 
 ### What is opencv-flask?
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Requirements
+## Requirements :boom:
 
 * **Flask**
 
@@ -42,7 +42,7 @@
 
 `pip install opencv-python`
 
-## Usage
+## Usage :rocket:
 
 #### Step #1 :
 
@@ -54,7 +54,7 @@
 
 #### Step #3 :
 
-* Fire up the terminal, and execute this piece of snippet :
+* Fire up the terminal, and execute this piece of snippet:
 
 `python app.py`
 
@@ -65,10 +65,10 @@
 ![Imgur](https://i.imgur.com/1s3oFQr.png)
 
 
-## Powered By
+## Powered By :green_heart:
 
 ![](https://static1.squarespace.com/static/5527ffcbe4b0a2033d4a2e77/5528006ce4b0303da7f6ec62/55280091e4b0dd4fb412934a/1428685502836/?format=500w)
 
-## License
+## License :package:
 
 > MIT
